@@ -9,7 +9,7 @@ body {
 .card{
     background: #fdfdfd;
     border-radius: 10px;
-    height: 90vh;
+    height: 190vh;
     width: 90vw;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23)
 }
